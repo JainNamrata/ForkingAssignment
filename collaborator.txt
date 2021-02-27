@@ -1,1 +1,2 @@
 On GitHub, click the settings button on the right, select Manage access, click Invite a collaborator, and then enter your partner's username.
+Hiii have forked your repo now i will send you the pull request
